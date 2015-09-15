@@ -1,5 +1,5 @@
 <?php
-
+use J7mbo\TwitterApiPhp;
 /**
  * Class TwitterAPIExchangeTest
  *
